@@ -11,7 +11,7 @@
 
 - 💬 Ask me about *javaScript,HTML,CSS,DSA.*
 
-- 📫 How to reach me *prashantsathawane2099@gmail.com*
+- 📫 How to reach me *prashantsathawane999@gmail.com*
 
 
 - My portfolio  https://prashantsathawane.github.io/
